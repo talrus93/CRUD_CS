@@ -1,0 +1,16 @@
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\inventory.mdf
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\inventory_log.ldf
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDIParent1.resources
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add_new_user.resources
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.unit.resources
+C:\Users\Ruslan\Desktop\IMS_semestralna\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add_product_name.resources
